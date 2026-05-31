@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Ishani 👋
 
-<!--
-**IshaniAnuththara/IshaniAnuththara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science and Statistics undergraduate. 
 
-Here are some ideas to get you started:
+### 🔭 Interests
+- **Data Visualization:** Turning data into clear, visual stories.
+- **AI:** Exploring intelligent systems and machine learning.
+- **Optimization:** Learning how to make algorithms and models run efficiently.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:**  R, Python
+- **Tools:** RStudio
+
